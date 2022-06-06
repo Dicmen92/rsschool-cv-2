@@ -25,7 +25,7 @@ body {
   justify-content: space-between;
   color: #101010;
 }
-.container {  
+.container {
   max-width: 1440px;
   margin: 0 auto;
 }
@@ -93,7 +93,7 @@ body {
   margin-top: 6px;
   margin-bottom: 24px;
   font-size: 22px;
-  line-height: 22px; 
+  line-height: 22px;
   font-weight: normal;
 }
 .pers {
