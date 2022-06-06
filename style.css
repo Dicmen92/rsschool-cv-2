@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Roboto Slab';
   src: url('/fonts/RobotoSlab-Bold.woff2') format('woff2');
-  font-weight: bold;  
+  font-weight: bold;
 }
 @font-face {
   font-family: 'Roboto Slab';
@@ -9,7 +9,7 @@
   font-weight: normal;
   box-sizing: border-box;
   margin: 0;
-  padding: 0; 
+  padding: 0;
   font-family: 'Roboto Slab';
   color: #101010;
 }
@@ -60,16 +60,16 @@ body {
 }
 .contacts {
   display: flex;
-  justify-content: space-around;  
-  align-items: center; 
+  justify-content: space-around;
+  align-items: center;
   border-bottom: 7px solid #DC5E35;
-  border-radius: 5%;  
+  border-radius: 5%;
   justify-content: flex-start;
 }
 .image-wrap {
   display: flex;
   justify-content: center;
-  width: 50%;  
+  width: 50%;
 }
 .contacts-image {
   width: 200px;
@@ -84,7 +84,7 @@ body {
   line-height: 38px;
 }
 .contacts-title:after {
-  content: '';  
+  content: '';
   display: block;
   height: 3px;
   background: blue;
@@ -121,7 +121,7 @@ body {
 .pers-qualities__text {
   margin-bottom: 20px;
 }
-.pers__desc {  
+.pers__desc {
   padding: 0 20px;
   width: 50%;
   text-align: justify;
@@ -173,19 +173,19 @@ body {
 .languages-text:not(:last-child) {
   margin-bottom: 20px;
 }
-.footer {  
+.footer {
   background-color: #DC5E35;
   padding: 40px 0;
 }
 .footer-wrap {
-  display: flex;    
+  display: flex;
   justify-content: space-between;
   align-items: center;
 }
 .footer-name {
   display: flex;
   justify-content: flex-start;
-  align-items: center;  
+  align-items: center;
 }
 .footer__subtitle,
 .footer-name span {
@@ -193,7 +193,7 @@ body {
   color: #fff;
   font-size: 22px;
   line-height: 22px; 
-  font-weight: normal;  
+  font-weight: normal;
 }
 .footer-name span {
   margin-right: 20px;
