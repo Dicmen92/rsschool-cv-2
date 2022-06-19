@@ -132,6 +132,15 @@ body {
   width: 50%;
   text-align: justify;
 }
+.pers-project {
+  text-decoration: none;
+  color: #000;
+  font-weight: 900;  
+  font-size: 24px;    
+}
+.pers-project:hover {
+  color: red;
+}
 .skills-list {
   padding: 0 20px;
 }
